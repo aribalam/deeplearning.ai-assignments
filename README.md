@@ -17,3 +17,5 @@ Week 4: [Image Classification using Deep Neural Network](https://github.com/arib
 Week 5: [Weight Initialization Techniques](https://github.com/aribalam/deeplearning.ai-assignments/blob/master/Improving%20Neural%20Networks/week1/Initialization/Initialization.ipynb)
 
 Week 6: [Regularizaton and Dropout in Neural Networks](https://github.com/aribalam/deeplearning.ai-assignments/blob/master/Improving%20Neural%20Networks/week1/Regularization/Regularization.ipynb)
+
+Week 7: [Hand Sign Recognition using TensorFlow](https://github.com/aribalam/deeplearning.ai-assignments/blob/master/Improving%20Neural%20Networks/week3/Hand_Sign_Detection.ipynb)
