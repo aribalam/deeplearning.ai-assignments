@@ -19,3 +19,15 @@ Week 5: [Weight Initialization Techniques](https://github.com/aribalam/deeplearn
 Week 6: [Regularizaton and Dropout in Neural Networks](https://github.com/aribalam/deeplearning.ai-assignments/blob/master/Improving%20Neural%20Networks/week1/Regularization/Regularization.ipynb)
 
 Week 7: [Hand Sign Recognition using TensorFlow](https://github.com/aribalam/deeplearning.ai-assignments/blob/master/Improving%20Neural%20Networks/week3/Hand_Sign_Detection.ipynb)
+
+## Convolutional Neural Networks
+
+Week 8: [Convolutional Model](https://github.com/aribalam/deeplearning.ai-assignments/tree/master/Convolutional%20Neural%20Networks/Convolution%20Model)
+
+Week 9: [Residual Networks](https://github.com/aribalam/deeplearning.ai-assignments/tree/master/Convolutional%20Neural%20Networks/Residual%20Networks)
+
+Week 10: [Autonomous Car Driving Model](https://github.com/aribalam/deeplearning.ai-assignments/tree/master/Convolutional%20Neural%20Networks/Autonomous%20Car%20Driving%20Applications)
+
+Week 11: [Neural Style Transfer](https://github.com/aribalam/deeplearning.ai-assignments/tree/master/Convolutional%20Neural%20Networks/Neural%20Style%20Transfer)
+
+Week 11: [Face Recognition](https://github.com/aribalam/deeplearning.ai-assignments/tree/master/Convolutional%20Neural%20Networks/Face%20Recognition)
